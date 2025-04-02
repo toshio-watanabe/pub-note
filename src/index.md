@@ -1,6 +1,6 @@
 ## 個人的ノート
 
-### AWS ECS / Fargate
+### AWS ECS / Fargate に関する AI 検索
 
 - [AWS Fargateを使用してJavaアプリをコンテナ化して実行する詳細な手順](250401-1410.html)
 
@@ -12,8 +12,16 @@
 
 - [サンプルプログラム：Spring Boot プロジェクトの Java アプリケーション](250401-2040.html)
 
+### AWS サービス
+
+- [Amazon Elastic Container Service](https://aws.amazon.com/jp/ecs/)
+- [Amazon ECS の特徴](https://aws.amazon.com/jp/ecs/features/)
+- AWS Fargate
+
 ### Obsidian / GitHub Pages
 
 - [Obsidian で作成したノートを GitHub Pages で公開](250323-1548.html)
 
 - [Obsidianで作成したノートをGitHub Pagesで公開するための詳細な手順](250324-2236.html)
+
+-  [Obsidian で作成したノートを GitHub Pages で公開する手順](250402-1329.html)
