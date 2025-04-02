@@ -31,3 +31,5 @@
 -  [Hugo の テーマ Relearn を使用した Web サイトを GitHub Pages で公開](250403-0125.html)
 
 - [GitHub Pages で Hugo サイトを自動的にデプロイする方法](250403-0128.html)
+
+- [Relearn - Quick Start](relearn_quickstart.html)
