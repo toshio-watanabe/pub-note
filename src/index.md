@@ -25,3 +25,9 @@
 - [Obsidianで作成したノートをGitHub Pagesで公開するための詳細な手順](250324-2236.html)
 
 -  [Obsidian で作成したノートを GitHub Pages で公開する手順](250402-1329.html)
+
+### Hugo / GitHub Pages
+
+-  [Hugo の テーマ Relearn を使用した Web サイトを GitHub Pages で公開](250403-0125.html)
+
+- [GitHub Pages で Hugo サイトを自動的にデプロイする方法](250403-0128.html)
